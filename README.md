@@ -2,9 +2,7 @@
 
 ## Overview
 
-STA 141B final project repository. The file report is:
-
-* STA 141B Project Report.pdf
+STA 141B final project repository. See the written report [here](https://github.com/christinalchang/campfire-nlp/blob/master/STA%20141B%20Project%20Report.pdf).
 
 Note: To open the visualization, you must either use Mozilla Firefox or 
 run Google Chrome with ```--allow-file-access-from-files``` parameter.
